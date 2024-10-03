@@ -8,4 +8,4 @@ It uses python library to create a interface for all these features.
 
 # How to use
 you can by downloading zip file and after expanding make sure you have 2 python libraries installed tkinter and pyperclip.
-If you dont have these installed it will not work on your computer
+If you dont have these installed it will not work on your computer.
